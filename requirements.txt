@@ -1,0 +1,13 @@
+langchain>=0.1.0
+openai>=1.0.0
+chromadb>=0.4.14
+pypdf>=3.13.0
+unstructured[all-docs]>=0.10.0
+sentence_transformers>=2.2.2
+streamlit>=1.27.0
+tiktoken>=0.5.0
+python-dotenv>=1.0.0
+tqdm>=4.64.0
+langchain-community
+watchdog>=2.1.0
+
